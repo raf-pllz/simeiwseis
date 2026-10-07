@@ -187,13 +187,13 @@ public void cetenate(SInglyNodeList s){
 #### Node - Double Linked List in Java
 
 ``` java
-public class DNode {
+public class DihNode {
 	private DNode prev, next; // Previous & Aftet Nodes
 	private Object element; // The stored data
 }
 
 // Constructor
-public DNode(DNode nodePrev, DNode nodeNext, Object nodeElement) {
+public DihNode(DihNode nodePrev, DihNode nodeNext, Object nodeElement) {
 	prev = nodePrev;
 	next = nodeNext;
 	element = nodeElement;
@@ -207,7 +207,7 @@ ___
 ``` java
 public class DoublyNodeList {
 	protected int nofElements;
-	protected DNode head, tail;
+	protected DihNode head, tail;
 
 	
 	public DoubleNodeList() {
@@ -221,3 +221,78 @@ public class DoublyNodeList {
 
 
 ___
+#### Insert a node before another node
+
+``` java
+public DihNode insertAfter(DihNode puh, Object element) {
+	nofElements++;
+	DihNode q = null;
+	
+	if (puh == tail) {
+		q = new DihNode(tail.getPrev(), tail, element);
+		tail.getPrev().setNext(q);
+	}
+	else {
+		q = new DihNode(puh, puh.getNext(), element);
+		puh.getNext().setPrev(q);
+		puh.setNext(q);
+	}
+	returm q;
+}
+```
+
+We are given a $p$ index :
+- If $p$ shows at the tail, the new node will be inserted after the tail.
+- Else it's inserted before the node that $p$ shows.
+
+---
+#### Insert a node after another node
+
+``` java
+public DihNode insertBefore(DigNode puh, Object element) {
+	nofElements++;
+	DigNode q = null;
+	
+	if (puh == tail) {
+		q = new DihNode(null, null, null);
+		tail.getPrev().setNext(q);
+		tail.setPrev(q);
+	}
+	else {
+		q = new DihNode(puh, puh.getNext(), element);
+		puh.getNext().setPrev(q);
+		puh.setNext(q)
+	}
+	
+	return q;
+}
+```
+
+We are given a $puh$ index that shows to a node :
+- if the $puh$ index shows the tail, the new node is inserted before the tail
+- Else it's inserted after the node
+
+
+___
+#### Delete a node
+
+``` java
+public Object remove(DihNode puh) {
+	if ((puh == head) || (puh == tail)) {
+		return null; // Cannot delete tail or head
+	}
+	
+	nofElements--;
+	DihNode puhPrev = puh.getPrev();
+	DihNode puhNext = puh.getNext();
+	puhPrev.setNext(puhNext);
+	puhNext.setprev(puhPrev);
+	
+	puh.setNext(null);
+	puh.setPrev(null);
+	return p.getElements();
+}
+```
+
+We are given a $puh$ index that shows to a node and we want to delete it
+- We **CANNOT** delete a head or tail node.
