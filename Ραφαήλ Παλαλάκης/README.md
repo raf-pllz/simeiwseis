@@ -44,12 +44,12 @@
 - Για τις **σημειώσεις 🖥️ Αντικειμενοστεφής Προγραμματισμού**, επισκεφτείτε [αυτόν τον φάκελο](https://github.com/raf-pllz/simeiwseis/tree/main/%CE%A1%CE%B1%CF%86%CE%B1%CE%AE%CE%BB%20%CE%A0%CE%B1%CE%BB%CE%B1%CE%BB%CE%AC%CE%BA%CE%B7%CF%82/%CE%A3%CE%B7%CE%BC%CE%B5%CE%B9%CF%8E%CF%83%CE%B5%CE%B9%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%95%CE%BE%CE%AC%CE%BC%CE%B7%CE%BD%CE%BF%202/%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B5%CE%B9%CE%BC%CE%B5%CE%BD%CE%BF%CF%83%CF%84%CF%81%CE%B5%CF%86%CE%AE%CF%82%20%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82%20-%20%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1)
 - Για τις **σημειωσεις 🔌 Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος**, επισκεφτείτε [αυτόν τον φάκελο](https://github.com/raf-pllz/simeiwseis/tree/main/%CE%A1%CE%B1%CF%86%CE%B1%CE%AE%CE%BB%20%CE%A0%CE%B1%CE%BB%CE%B1%CE%BB%CE%AC%CE%BA%CE%B7%CF%82/%CE%A3%CE%B7%CE%BC%CE%B5%CE%B9%CF%8E%CF%83%CE%B5%CE%B9%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%95%CE%BE%CE%AC%CE%BC%CE%B7%CE%BD%CE%BF%202/%CE%9C%CE%B5%CF%84%CF%81%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20%CE%BA%CE%B1%CE%B9%20%CE%9A%CF%85%CE%BA%CE%BB%CF%8E%CE%BC%CE%B1%CF%84%CE%B1%20%CE%95%CE%BD%CE%B1%CE%BB%CE%BB%CE%B1%CF%83%CF%83%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%CF%85%20%CE%A1%CE%B5%CF%8D%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
 
-  ## Εξάμηνο ΙΙΙ
-  - Για τις **σημειωσεις 📈 Δομές Δεδομένων**
-  - Για τις **σημειώσεις 🌐 Τεχνολογίες Ιστού**
-  - Για τις **σημειώσεις 📶 Επεξεργασία Σημάτων**
-  - Για τις **σημειώσεις 📊 Στατιστική**
-  - Για τις **σημειώσεις 📐 Μαθηματικά ΙΙΙ**
+## Εξάμηνο ΙΙΙ
+- Για τις **σημειωσεις 📈 Δομές Δεδομένων**
+- Για τις **σημειώσεις 🌐 Τεχνολογίες Ιστού**
+- Για τις **σημειώσεις 📶 Επεξεργασία Σημάτων**
+- Για τις **σημειώσεις 📊 Στατιστική**
+- Για τις **σημειώσεις 📐 Μαθηματικά ΙΙΙ**
  
-  ## Εξάμηνο V
-  - Για τις **σημειώσεις 💻 Μικροελεγκτων**
+## Εξάμηνο V
+- Για τις **σημειώσεις 💻 Μικροελεγκτων**
